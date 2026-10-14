@@ -1,2 +1,40 @@
-# portfolio-siswa
-wbsite portfolio digital siswa PPLG
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    img {
+        max-width: 100%;
+    }
+    .flex {
+        display: flex;
+        gap: 20px;
+    }
+    .width-50 {
+        width: 50%;
+    }
+</style>
+<body>
+    <div class="flex">
+        <div class="width-50">
+            <h1>ready or not</h1>
+            <p>Ready or Not adalah gim video tembak-menembak orang pertama taktis tahun 2023 yang dikembangkan dan diterbitkan olehVOID Interactive yang berbasis di Irlandia dan dirilis pertama kali untuk Microsoft Windows , dan kemudian untuk PlayStation 5 dan Xbox Series X/S . Ready or Not mengikuti operasi tim SWAT polisi di kota fiksi Los Sueños di Amerika di tengah gelombang kejahatan kekerasan</p>
+        </div>
+        <div class="width-50">
+          <img src="c:\Users\User\Downloads\download.jpg" alt="gambar 1"class="width-40">  
+        </div>
+    </div>
+    <div class="flex">
+        <div class="width-50">
+            <h1>ready or not</h1>
+            <p>Ready or Not adalah gim video tembak-menembak orang pertama taktis tahun 2023 yang dikembangkan dan diterbitkan olehVOID Interactive yang berbasis di Irlandia dan dirilis pertama kali untuk Microsoft Windows , dan kemudian untuk PlayStation 5 dan Xbox Series X/S . Ready or Not mengikuti operasi tim SWAT polisi di kota fiksi Los Sueños di Amerika di tengah gelombang kejahatan kekerasan</p>
+        </div>
+        <div class="width-50">
+          <img src="c:\Users\User\Downloads\download.jpg" alt="gambar 1"class="width-40">  
+        </div>
+    </div>
+</body>
+</html> 
